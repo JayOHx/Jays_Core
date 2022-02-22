@@ -8,3 +8,7 @@ PROJECT
 # FEATURES:
 
 1. 'Anti-Cheat' Technically this is not an anti-cheat, I have created loads of fake events that do not trigger anywhere, so when someone joins the server with a cheat menu and they look through the list of availible functions to trigger to gain money etc, they see a list from this resource that will appeal to their cheating ways, all it takes is for them to trigger once function and they will be automatically kicked from the server and their discord information will be sent into a logging channel that you can set up.
+
+# DEPENDENCIES:
+
+- JD_Logs: 
